@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1449690907 source:c:\oleg\lesson1\lesson1\main.cpp
+	<conio.h>
+	<stdio.h>
+

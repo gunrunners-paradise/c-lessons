@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1449692055 source:c:\oleg\lesson2\main.cpp
+	<conio.h>
+	<stdio.h>
+
+1449692085 source:c:\oleg\lesson2\oleg_print.cpp
+	<stdio.h>
+
